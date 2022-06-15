@@ -24,7 +24,7 @@ body{
         align-items: center;
         width: 100%;
         height: 35vh;
-        background:url("/img/lenstravelier-i_ERPXKoReo-unsplash.jpg") bottom center no-repeat;
+        background:url("img/lenstravelier-i_ERPXKoReo-unsplash.jpg") bottom center no-repeat;
         background-size: cover;
         h1{
             font-size: 48px;
@@ -55,7 +55,7 @@ main{
             }
             
             &:first-child{
-                background: url('/img/drew-dau-0SukTvdAx7A-unsplash.jpg') no-repeat;
+                background: url('img/drew-dau-0SukTvdAx7A-unsplash.jpg') no-repeat;
                 background-size: cover;
                 background-position: left 30%;
                 display: flex;
@@ -138,7 +138,7 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.07);
                 }
             }
             &:nth-child(3){
-                background:url('/img/fraser-cottrell-XoOEmrOh3kA-unsplash.jpg') no-repeat center center;
+                background:url('img/fraser-cottrell-XoOEmrOh3kA-unsplash.jpg') no-repeat center center;
                 background-size: cover;
                 display: flex;
                 flex-direction: column;
@@ -177,7 +177,7 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.07);
                 .img{
                     width: 40%;
                     margin: 20px;
-                    background: url("/img/sixteen-miles-out-TiIvuqNnT4Y-unsplash.jpg") center center no-repeat;
+                    background: url("img/sixteen-miles-out-TiIvuqNnT4Y-unsplash.jpg") center center no-repeat;
                     background-size: cover;
                     border-radius: 20px;
                     &:hover{
