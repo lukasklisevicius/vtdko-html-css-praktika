@@ -222,7 +222,7 @@ main .container .box:hover {
 }
 
 main .container .box:first-child {
-  background: url("/img/drew-dau-0SukTvdAx7A-unsplash.jpg") no-repeat;
+  background: url("../img/drew-dau-0SukTvdAx7A-unsplash.jpg") no-repeat;
   background-size: cover;
   background-position: left 30%;
   display: -webkit-box;
@@ -355,7 +355,7 @@ main .container .box:nth-child(2) .inside .card:hover {
 }
 
 main .container .box:nth-child(3) {
-  background: url("/img/fraser-cottrell-XoOEmrOh3kA-unsplash.jpg") no-repeat center center;
+  background: url("../img/fraser-cottrell-XoOEmrOh3kA-unsplash.jpg") no-repeat center center;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -415,7 +415,7 @@ main .container .box:nth-child(4) {
 main .container .box:nth-child(4) .img {
   width: 40%;
   margin: 20px;
-  background: url("/img/sixteen-miles-out-TiIvuqNnT4Y-unsplash.jpg") center center no-repeat;
+  background: url("../img/sixteen-miles-out-TiIvuqNnT4Y-unsplash.jpg") center center no-repeat;
   background-size: cover;
   border-radius: 20px;
 }
